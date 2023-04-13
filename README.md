@@ -20,7 +20,7 @@
 <h3>Me contacter 📬</h3>
 
 
-   ✉️ Envoyez-moi un e-mail à votre baptiste.bareille@outlook.com
+   ✉️ Envoyez-moi un e-mail à baptiste.bareille@outlook.com
    
    💼 Consultez mon profil LinkedIn [BBAREILLE](https://www.linkedin.com/in/baptiste-bareille-0b8103259/).
 

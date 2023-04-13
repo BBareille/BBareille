@@ -2,6 +2,7 @@ Présentation de Mon Profil GitHub 🚀
 À propos de moi 👨‍💻
 
    🌍 Je suis passionné par le développement et la technologie.
+   
    🎓 Je suis actuellement en formation Concepteur Développeur d'Application.
 
 Mes projets 📂

@@ -6,7 +6,9 @@
 
 <h3>Mes projets 📂</h3>
 
-   🌐 [TP-Photo](https://github.com/BBareille/TP-Photo) - Un site complet permettant à des photographes de partager leur photo avec leur client.
+   🧩 [EF-Classements](https://github.com/BBareille/ef-classements) - Un plugin pour le CMS Azuriom pour la génération de classement en lien avec un serveur            de jeu.
+
+   🌐 [TP-Photo](https://github.com/BBareille/TP-Photo) - Une interface web permettant à des photographes de partager leur photo avec leur client.
     
    🤖 [Simple-DAO](https://github.com/BBareille/simple-dao) - Un outil permettant la création d'un DAO en JavaScript à partir de données enregistrés dans une base de données MySQL.
 

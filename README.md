@@ -10,7 +10,7 @@
 
    🌐 [TP-Photo](https://github.com/BBareille/TP-Photo) - Une interface web permettant à des photographes de partager leur photo avec leur client.
     
-   🤖 [Simple-DAO](https://github.com/BBareille/simple-dao) - Une applicationn CLI permettant la création d'un DAO en JavaScript à partir de données enregistrés dans une base de données MySQL.
+   🤖 [Simple-DAO](https://github.com/BBareille/simple-dao) - Une application CLI permettant la création d'un DAO en JavaScript à partir de données enregistrés dans une base de données MySQL.
 
 <h3>Mes compétences 💪</h3>
 
